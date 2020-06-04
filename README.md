@@ -1,4 +1,4 @@
-## Water-Sense---Smart-water-coolers
+## Water Sense-Smart water coolers
 
 This web applicaion allows the smart water cooler service providers to monitor their products installed in various locations and
 service them when necessary based on the data obtained through the sensors present in the coolers. The sensor data is sent using MQTT 
